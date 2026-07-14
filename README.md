@@ -1,6 +1,7 @@
 <div align="center">
 
-[Views](https://komarev.com/ghpvc/?username=ranpwiz&color=171717&style=flat&label=mazerunners)
+<img src="https://komarev.com/ghpvc/?username=ranpwiz&color=000000&style=flat-square&title=mazerunners&label=mazerunners" alt="mazerunners" />
+</p>
 
 platonically taken by <a href="https://github.com/winebullets">@winebullets</a>
 
